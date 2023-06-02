@@ -17,6 +17,7 @@ Following list of commands in only in this branch.
 * git checkout branch name: Switch to the branch whose name is given.
 - git push origin master: push the content of the comitted file to the remote GitHub repository.
 - git remote add origin (address}: This gives the info about where to push the commited gile in remote GitHub.
+- git push origin HEAD: It will push the commited file to the branch in which we are because the HEAD implies the branch we are working in.
 - git remote -v: gives info about the address to fetch the repo and push to the repo as shown below:
 ---
 This is the result:
