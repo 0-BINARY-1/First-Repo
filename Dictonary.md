@@ -9,7 +9,7 @@ I will write 10 new words that I don't know along with their meaning.
 | abandon  | to leave permanently with intention of not returning back |
 | abase      | humiliate or degrade oneself |
 | abash      | to destroy the self-possession or self-confidence of (someone), abashed: feeling guilty or embarrassed|
-| abattoir       | a place where animals are butchered, slaughter-house(for cattle, sheep, etc.   |
+| abattoir       | a place where animals are butchered, slaughter-house(for cattle, sheep, etc.)   |
 | abbe        |French priest|
 |abbess| a woman who is the superior of a convent of nuns, head lady of nuns at nunnery or convent|
 | abbey       | a monastery ruled by an abbot or abbess|
@@ -35,7 +35,7 @@ I will write 10 new words that I don't know along with their meaning.
 # Day 3
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
-| abler       | clever, doing your job well|
+|  able/abler       | capable to de st,clever, doing your job well|
 | able-bodied  |  having a sound strong body, having full use of your body |
 | abode  | the place where you live (like address) |
 | abolish      | to end law or system officially |
@@ -45,7 +45,7 @@ I will write 10 new words that I don't know along with their meaning.
 |abort | To end sth before it completes|
 | abortion       | medical operation that cause a baby to die inside its mother before it is fully developed |
 | abortionist      | a person who performs abortion, espicially illegially. |
-| abortive      | not completed successfully|
+| abortive      |act that were not completed successfully (he made two abortive acts) |
 
 # Day 4
 | Word        | Meaning                                      |
@@ -55,9 +55,39 @@ I will write 10 new words that I don't know along with their meaning.
 | a bout turn  | complete change of opinion, plan, or behaviour like U-turn |
 | abrasion     | damaged are of the skin due to being rubbed against sth hard |
 | abrashive     | surface or behaviour that might cause scratch or rude presentation|
-| abreast    | to maintain level with sb/sth going in the same direction.   |
+| abreast    | to maintain level with sb/sth going in the same direction/ beside one another in a line |   |
 | abridge     | to make sth shorter by reoving parts of it 'generally done with books'|
-|abort | To end sth before it completes|
+|abroad| in or to another country|
 | abrupt       | sudden and unexpected, rude and unfriendly |
 | abscess     | a swelling on or in the body consisting pus (poisonous). |
-| abscond     | to runaway from a place where you should stay, sometimes from sth we should not take.|
+| abscond     | to runaway from a place where you should stay, sometimes from sth we should not take, to depart secretly and hide onself|
+
+# Day 5
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+|  abseil      | to go down the cliff with rope, pushing agains the rocks with feets|
+| absent |  not being present somewhare, or state of not knowing about what is happining |
+| absenteeism | problem of worker or student not going to work or school |
+| absent minded     | often forgettnig or not notiving things because of thinking about something else |
+| absolute     | complete, total|
+| absolute majority | The state of achiving more than half of the total number of votes in an election  |
+| absolute zero |lowest temperature that is thought to be possible.|
+|absolution | Formal statement that a person is forgiven for what he/she has done (espicially in christian church)|
+| absolve      | formal statement that sb does not have to take responsibility for the events happened |
+| absorbed | giving all the attention to something |
+| absorbent  |st that can soak of liquid and hold inside itself |
+
+# Day 6
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| absorbing | sth that take your interest and attention |
+| about |  a little more, almost, in many directions, places, time, to specify subjects (let's talk about) |
+| a bout turn  | complete change of opinion, plan, or behaviour like U-turn |
+| abrasion     | damaged are of the skin due to being rubbed against sth hard |
+| abrashive     | surface or behaviour that might cause scratch or rude presentation|
+| abreast    | to maintain level with sb/sth going in the same direction/ beside one another in a line |   |
+| abridge     | to make sth shorter by reoving parts of it 'generally done with books'|
+|abroad| in or to another country|
+| abrupt       | sudden and unexpected, rude and unfriendly |
+| abscess     | a swelling on or in the body consisting pus (poisonous). |
+| abscond     | to runaway from a place where you should stay, sometimes from sth we should not take, to depart secretly and hide onself|
