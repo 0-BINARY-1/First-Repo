@@ -107,7 +107,7 @@ I will write 10 new words that I don't know along with their meaning.
 | accede   | to agree to a request, demand, etc./to achieve a high position, especially to become king or queen |
 | accelerando    |  gradually increasing in speed |
 
-# Day 7
+# Day 8
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
 | accelerate | to go faster |
@@ -117,7 +117,6 @@ I will write 10 new words that I don't know along with their meaning.
 | accept/acceptable/acceptance |  agree to take, one that can be allowed, the act of agreeing or accepting |
 | access | a way of entering or reaching a place, have right to get sth, have reach to sth |
 | accessible | possible to be reached or entered. |
-
 | accession | the act of taking a very high position, especially as ruler of a country or head of sth. |
 | accessory | An extra item that is added to sth and is attractive and have use but not of great importance |
 | accidental   | happening by chance, not planned, sign meaning in music for making note to make high or low note for the piece of music |
