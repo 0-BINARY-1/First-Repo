@@ -81,13 +81,13 @@ I will write 10 new words that I don't know along with their meaning.
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
 | absorbing | sth that take your interest and attention |
-| about |  a little more, almost, in many directions, places, time, to specify subjects (let's talk about) |
-| a bout turn  | complete change of opinion, plan, or behaviour like U-turn |
-| abrasion     | damaged are of the skin due to being rubbed against sth hard |
-| abrashive     | surface or behaviour that might cause scratch or rude presentation|
-| abreast    | to maintain level with sb/sth going in the same direction/ beside one another in a line |   |
-| abridge     | to make sth shorter by reoving parts of it 'generally done with books'|
+| abstain |  to stop yourself from doing sth that you enjoy |
+| abstainer  | a person who chose not to vote either in favour of  or against sth/aperson who never drinks alcohal |
+| abstention   | an act of choosing not to vote either for or against sth |
+| abstinence   | stopping yourself from having or doing sth that you enjoy |
+| abstract   | existing only as an idea, not as a physical thing |
+| abstract art  | art that doesn't show people of things as they really look, but which shows the artist's feelings about them |
 |abroad| in or to another country|
-| abrupt       | sudden and unexpected, rude and unfriendly |
-| abscess     | a swelling on or in the body consisting pus (poisonous). |
-| abscond     | to runaway from a place where you should stay, sometimes from sth we should not take, to depart secretly and hide onself|
+| abstraction | a general idea not based on any particular real person , thing or situation, focusing on something deeply that your loose/doesn't pay attention to the things around you. |
+| absurd   | not at all logical or sensible |
+| abundance     |  a very large quantity of sth |
