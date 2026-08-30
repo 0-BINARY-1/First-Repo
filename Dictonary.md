@@ -91,3 +91,34 @@ I will write 10 new words that I don't know along with their meaning.
 | abstraction | a general idea not based on any particular real person , thing or situation, focusing on something deeply that your loose/doesn't pay attention to the things around you. |
 | absurd   | not at all logical or sensible |
 | abundance     |  a very large quantity of sth |
+
+# Day 7
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| abundant | having more than enough cause it is in large quantity. |
+| abuse|  to use sth in a bad or dishonest way, sexually abuse, drug abuse, use rude  words, insult |
+| abysmal  | very bad or of very poor quality |
+| abyss   | very deep hole that seems to have no buttom |
+| abyssal | the deepest part of the ocean or the ocean floor |
+| acacia  | a tree with yellow and white flowers |
+| academic  | related to school, subject of interest, teaching faculty at a university or college etc.,  |
+| academician | a member of an official group of people who are important in art, science or literature |
+| academy | a school of special training |
+| accede   | to agree to a request, demand, etc./to achieve a high position, especially to become king or queen |
+| accelerando    |  gradually increasing in speed |
+
+# Day 7
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| accelerate | to go faster |
+| accelerator |  control in vechile that make it go faster. |
+| accent  | a particular way of pronouncing words that is connected with the country, social class that you come from/ part of the word to which the greater force is given while pronouncing  |
+| accentuate   | to make something easier to notice. |
+| accept/acceptable/acceptance |  agree to take, one that can be allowed, the act of agreeing or accepting |
+| access | a way of entering or reaching a place, have right to get sth, have reach to sth |
+| accessible | possible to be reached or entered. |
+
+| accession | the act of taking a very high position, especially as ruler of a country or head of sth. |
+| accessory | An extra item that is added to sth and is attractive and have use but not of great importance |
+| accidental   | happening by chance, not planned, sign meaning in music for making note to make high or low note for the piece of music |
+| acclaim   |  to express very high opinion of sth/sb |
