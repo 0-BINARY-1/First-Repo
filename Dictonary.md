@@ -66,9 +66,9 @@ I will write 10 new words that I don't know along with their meaning.
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
 |  abseil      | to go down the cliff with rope, pushing agains the rocks with feets|
-| absent |  not being present somewhare, or state of not knowing about what is happining |
+| absent |  not being present somewhere, or state of not knowing about what is happining |
 | absenteeism | problem of worker or student not going to work or school |
-| absent minded     | often forgettnig or not notiving things because of thinking about something else |
+| absent minded     | often forgettnig or not noticing things because of thinking about something else |
 | absolute     | complete, total|
 | absolute majority | The state of achiving more than half of the total number of votes in an election  |
 | absolute zero |lowest temperature that is thought to be possible.|
@@ -81,14 +81,13 @@ I will write 10 new words that I don't know along with their meaning.
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
 | absorbing | sth that take your interest and attention |
-| abstain |  to stop yourself from doing sth that you enjoy |
+| abstain |  to stop yourself from doing sth or having sth that you enjoy |
 | abstainer  | a person who chose not to vote either in favour of  or against sth/aperson who never drinks alcohal |
 | abstention   | an act of choosing not to vote either for or against sth |
 | abstinence   | stopping yourself from having or doing sth that you enjoy |
 | abstract   | existing only as an idea, not as a physical thing |
 | abstract art  | art that doesn't show people of things as they really look, but which shows the artist's feelings about them |
-|abroad| in or to another country|
-| abstraction | a general idea not based on any particular real person , thing or situation, focusing on something deeply that your loose/doesn't pay attention to the things around you. |
+| abstraction | a general idea that is not fully clear, not showing all details by hiding sth that is not necessary to show |
 | absurd   | not at all logical or sensible |
 | abundance     |  a very large quantity of sth |
 
@@ -121,3 +120,18 @@ I will write 10 new words that I don't know along with their meaning.
 | accessory | An extra item that is added to sth and is attractive and have use but not of great importance |
 | accidental   | happening by chance, not planned, sign meaning in music for making note to make high or low note for the piece of music |
 | acclaim   |  to express very high opinion of sth/sb |
+
+# Day 9
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| acclamation | loud and enthusiastic approval or welcome |
+| acclimatize | to get used to new climate, a new situation, etc. |
+| accolade  | a comment , prize, etc after people's opinion about you work is high/ expression of praise  |
+| accommodate  | to have enough space for sb/sth, especially for a certain number of people |
+| accommodating | providing sth to sb they want. |
+| accommodation | place for sb to live or stay |
+| accompaniment | st that is added to another thing to make it better or more appealing, music played to support a person who is singing or playing a musical instrument, instrumental or vocal part to support a melody |
+| accompanist | Person who plays the piano, or other instrument to support sb who sings the main part of the music |
+| accompany   | To go together with sb/sth to for the purpose of support in different ways. |
+| accomplice  |  a person who helps sb to do sth bad, especially a crime |
+| accomplish | to succeed in doing sth difficult that you planned to do. |
