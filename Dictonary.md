@@ -135,3 +135,18 @@ I will write 10 new words that I don't know along with their meaning.
 | accompany   | To go together with sb/sth to for the purpose of support in different ways. |
 | accomplice  |  a person who helps sb to do sth bad, especially a crime |
 | accomplish | to succeed in doing sth difficult that you planned to do. |
+
+# Day 10
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| accord | an agreement specially between countries/ to give sth to sb |
+| accordance| in a way that follows or obeys sths |
+| accordingly  | in a way that is suitable |
+| according to  | as stated by sb or shown by sth |
+| accordion | a musical instrument played by pulling and pushing two sides and pressing the keys while doing so. |
+| accost | to go up and talk to a stranger in a way that is rude or frightening |
+| account | description of sth that has happened, record of money transaction |
+| by all account and by your own account | according to what everyone says and according what you say yourself |
+| accountable   | someone expected to give explanation for theri action |
+| accountancy | The work of profession of an accountant |
+| accountant | a person whose job is to keep or examine the financial accounts of a business, etc. |
