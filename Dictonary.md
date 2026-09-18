@@ -167,4 +167,67 @@ I will write 10 new words that I don't know along with their meaning.
 | acetate | a chemical compound that is made from a type of acid and used to make plastics/ smooth type of artificial cloth |
 | acetone | a colorless liquid with a strong smell used for cleaning things, making paint thinner and producing various chemicals | 
 | acetylene | a gas that burns with a bery hot bright flame, used for cutting or joining the metal |
- 
+
+# Day 12
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| accord | an agreement specially between countries/ to give sth to sb |
+| accordance| in a way that follows or obeys sths |
+| accordingly  | in a way that is suitable |
+| according to  | as stated by sb or shown by sth |
+| accordion | a musical instrument played by pulling and pushing two sides and pressing the keys while doing so. |
+| accost | to go up and talk to a stranger in a way that is rude or frightening |
+| account | description of sth that has happened, record of money transaction |
+| by all account and by your own account | according to what everyone says and according what you say yourself |
+| accountable   | someone expected to give explanation for theri action |
+| accountancy | The work of profession of an accountant |
+| accountant | a person whose job is to keep or examine the financial accounts of a business, etc. |
+
+# Day 13
+
+| Word      | Meaning                                        |
+|-------------|----------------------------------------------|
+| accreditation | official approval which is given by an organization when sb/sth achieves a certain standard|
+| accrue | to increase over a period of time |
+| accumulate | to collect number of items over a time period |
+| accusation | a statement saying sb has done sth |
+| accuse | blame someone of doing sth wrong |
+| the accused | person who have been blamed or accused for doing sth wrong. |
+| accusing | showing sb has something wrong |
+| accustom | to make yourself/sb/sth get used too sth |
+| accustomed   | has gotten used to sth |
+| acetate | a chemical compound that is made from a type of acid and used to make plastics/ smooth type of artificial cloth |
+| acetone | a colorless liquid with a strong smell used for cleaning things, making paint thinner and producing various chemicals | 
+| acetylene | a gas that burns with a bery hot bright flame, used for cutting or joining the metal |
+
+# Day 14
+| Word        | Meaning                                      |
+|-------------|----------------------------------------------|
+| accord | an agreement specially between countries/ to give sth to sb |
+| accordance| in a way that follows or obeys sths |
+| accordingly  | in a way that is suitable |
+| according to  | as stated by sb or shown by sth |
+| accordion | a musical instrument played by pulling and pushing two sides and pressing the keys while doing so. |
+| accost | to go up and talk to a stranger in a way that is rude or frightening |
+| account | description of sth that has happened, record of money transaction |
+| by all account and by your own account | according to what everyone says and according what you say yourself |
+| accountable   | someone expected to give explanation for theri action |
+| accountancy | The work of profession of an accountant |
+| accountant | a person whose job is to keep or examine the financial accounts of a business, etc. |
+
+# Day 15
+
+| Word      | Meaning                                        |
+|-------------|----------------------------------------------|
+| accreditation | official approval which is given by an organization when sb/sth achieves a certain standard|
+| accrue | to increase over a period of time |
+| accumulate | to collect number of items over a time period |
+| accusation | a statement saying sb has done sth |
+| accuse | blame someone of doing sth wrong |
+| the accused | person who have been blamed or accused for doing sth wrong. |
+| accusing | showing sb has something wrong |
+| accustom | to make yourself/sb/sth get used too sth |
+| accustomed   | has gotten used to sth |
+| acetate | a chemical compound that is made from a type of acid and used to make plastics/ smooth type of artificial cloth |
+| acetone | a colorless liquid with a strong smell used for cleaning things, making paint thinner and producing various chemicals | 
+| acetylene | a gas that burns with a bery hot bright flame, used for cutting or joining the metal |
