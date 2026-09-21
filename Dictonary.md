@@ -171,63 +171,63 @@ I will write 10 new words that I don't know along with their meaning.
 # Day 12
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
-| accord | an agreement specially between countries/ to give sth to sb |
-| accordance| in a way that follows or obeys sths |
-| accordingly  | in a way that is suitable |
-| according to  | as stated by sb or shown by sth |
-| accordion | a musical instrument played by pulling and pushing two sides and pressing the keys while doing so. |
-| accost | to go up and talk to a stranger in a way that is rude or frightening |
-| account | description of sth that has happened, record of money transaction |
-| by all account and by your own account | according to what everyone says and according what you say yourself |
-| accountable   | someone expected to give explanation for theri action |
-| accountancy | The work of profession of an accountant |
-| accountant | a person whose job is to keep or examine the financial accounts of a business, etc. |
+| Achilles heel | week point |
+| Achilles tendon| tendon connection calf muscles to the heel. |
+| acknowledge  | admit the truth, confirm or express thanks for sth |
+| acme |the height of achievement or excellence |
+| acolyte | as assistant or follower |
+| acorn | the oval nut of oak tree |
+| acoustic | of sound, related to the sound which is not electrically amplified |
+| acquaint | make aware of sth, know slightly |
+| acquaintance   | a person one knows slightly, having slight knowledge |
+| acquiesce | agree |
+| acquisition | something acquired, the act of acquiring |
 
 # Day 13
 
 | Word      | Meaning                                        |
 |-------------|----------------------------------------------|
-| accreditation | official approval which is given by an organization when sb/sth achieves a certain standard|
-| accrue | to increase over a period of time |
-| accumulate | to collect number of items over a time period |
-| accusation | a statement saying sb has done sth |
-| accuse | blame someone of doing sth wrong |
-| the accused | person who have been blamed or accused for doing sth wrong. |
-| accusing | showing sb has something wrong |
-| accustom | to make yourself/sb/sth get used too sth |
-| accustomed   | has gotten used to sth |
-| acetate | a chemical compound that is made from a type of acid and used to make plastics/ smooth type of artificial cloth |
-| acetone | a colorless liquid with a strong smell used for cleaning things, making paint thinner and producing various chemicals | 
-| acetylene | a gas that burns with a bery hot bright flame, used for cutting or joining the metal |
+| acquisitive | eager to acquire things |
+| acquit | declare to be not guilty |
+| acquit oneself | behave in perticular way |
+| acre | a unit of land area equal to 4840 sq yds., 43,560 sq ft, 4047 sq miles, 0.4047 hectare |
+| acrid | unpleasantly bitter |
+| acrimonious | angry and bitter |
+| acrobat | performer of spectacular gymnastic feats. |
+| acrobatic | involving spectacular gymnastic feats. |
+| acronym   | word formed from the first letters of other words e.g PIN (Personal Identification Number) sounds like pin which is a sharp object used to fasten |
+| acropolis | the citadel of an ancient Greek city |
+| acrostic | a poem or puzzle in which certain letters in each line form a word or words | 
+| acrylic | a pungent organic acid, used to make acrylic paints |
 
 # Day 14
 | Word        | Meaning                                      |
 |-------------|----------------------------------------------|
-| accord | an agreement specially between countries/ to give sth to sb |
-| accordance| in a way that follows or obeys sths |
-| accordingly  | in a way that is suitable |
-| according to  | as stated by sb or shown by sth |
-| accordion | a musical instrument played by pulling and pushing two sides and pressing the keys while doing so. |
-| accost | to go up and talk to a stranger in a way that is rude or frightening |
-| account | description of sth that has happened, record of money transaction |
-| by all account and by your own account | according to what everyone says and according what you say yourself |
-| accountable   | someone expected to give explanation for theri action |
-| accountancy | The work of profession of an accountant |
-| accountant | a person whose job is to keep or examine the financial accounts of a business, etc. |
+| actinium | radioactive chemical element |
+| actionable | sth done which give cause for implementing legal actions, suitable to take action |
+| activate  | cause to act or work, to turn on |
+| active | energetic |
+| activist | a person who works hard to bring about social or political change |
+| activity | a specific action |
+| actual, actually | existing in reality, in truth, really |
+| actuary | a person who calculates insurance risks and premiums |
+| actuate | cause someone to take action, motivate |
+| acumen | the ability to judge people and situations well to gain a practical advantage |
+| acupuncture | the insertion of very thin needles into the skin as a medical treatment |
 
 # Day 15
 
 | Word      | Meaning                                        |
 |-------------|----------------------------------------------|
-| accreditation | official approval which is given by an organization when sb/sth achieves a certain standard|
-| accrue | to increase over a period of time |
-| accumulate | to collect number of items over a time period |
-| accusation | a statement saying sb has done sth |
-| accuse | blame someone of doing sth wrong |
-| the accused | person who have been blamed or accused for doing sth wrong. |
-| accusing | showing sb has something wrong |
-| accustom | to make yourself/sb/sth get used too sth |
-| accustomed   | has gotten used to sth |
-| acetate | a chemical compound that is made from a type of acid and used to make plastics/ smooth type of artificial cloth |
-| acetone | a colorless liquid with a strong smell used for cleaning things, making paint thinner and producing various chemicals | 
-| acetylene | a gas that burns with a bery hot bright flame, used for cutting or joining the metal |
+| acute | serious or severe, related to geometrical angle less than 90 degree. |
+| AD | Anno Domini (started from traditional date of jesus's birth) |
+| adage | a short, traditional saying that expresses a common observation |
+| adagio | to play or sing in a slow, graceful, and leisurely manner |
+| adamant | refusing to change one's mind |
+| Adam's apple | the lump of cartilage at the front of the neck |
+| adapt, adaptable, adaptor | to become habitual, able to adapt, device to which we can connect many electric plugs |
+| addendum | an extra piece of information or a separate document added to the end of a book, report, or contract to clarify, update, or expand on the original |
+| adder   | a poisonous snake |
+| addict, addicated | a person addicated to sth, the state of being dependent on sth |
+| additive | substance added to improve or preserve something | 
+| addled | confused and unable to think clearly |
